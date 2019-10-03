@@ -1,5 +1,5 @@
 useDynLib(TitanCNA)
-import(IRanges,GenomicRanges,foreach,GenomeInfoDb,data.table,dplyr,VariantAnnotation)
+import(BiocGenerics,IRanges,GenomicRanges,foreach,GenomeInfoDb,data.table,dplyr,VariantAnnotation)
 export(loadAlleleCounts,loadDefaultParameters,
 		filterData,getPositionOverlap,wigToRangedData,wigToGRanges,
 		outputTitanResults,outputModelParameters,correctReadDepth,
