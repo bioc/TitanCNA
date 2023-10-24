@@ -2,7 +2,7 @@ Package: TitanCNA
 Type: Package
 Title: Subclonal copy number and LOH prediction from whole genome sequencing
         of tumours
-Version: 1.39.0
+Version: 1.40.0
 Date: 2019-10-03
 Author: Gavin Ha
 Maintainer: Gavin Ha <gha@fredhutch.org>
